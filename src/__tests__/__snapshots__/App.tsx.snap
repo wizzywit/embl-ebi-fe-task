@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the correct snapshot of the landing page 1`] = `
+<div>
+  <main>
+    <section
+      class="sc-iBYQkv bLzXhO"
+    >
+      <div
+        class="sc-ftTHYK ebeEzx"
+      >
+        <h1>
+          Advanced search builder
+        </h1>
+        <div
+          class="sc-pyfCe dWXjch"
+        >
+          <p>
+            Add keyword or phrase
+          </p>
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 24 24"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0 0h24v24H0V0z"
+              fill="none"
+            />
+            <path
+              d="M7 10l5 5 5-5H7z"
+            />
+          </svg>
+        </div>
+        <form
+          class="sc-jrcTuL dcdnyE"
+          role="search"
+        >
+          <label
+            for="term"
+          >
+            Enter term or phrase:
+          </label>
+          <div
+            class="form-group"
+          >
+            <div
+              class="input-group"
+            >
+              <input
+                aria-label="Enter term or phrase"
+                aria-required="true"
+                id="term"
+                type="search"
+                value=""
+              />
+            </div>
+            <button
+              class="sc-hLBbgP bDyqrH"
+              disabled=""
+              type="submit"
+            >
+              Add
+            </button>
+          </div>
+        </form>
+      </div>
+    </section>
+    <section
+      class="sc-bcXHqe jkERTl"
+    >
+      <div
+        class="sc-gswNZR qtAsH"
+      >
+        <p>
+          Search query
+        </p>
+        <div
+          class="query-group"
+        >
+          <div
+            class="query"
+            data-testid="query"
+          />
+          <button
+            class="sc-hLBbgP bDyqrH"
+            disabled=""
+          >
+            <div
+              class="sc-dkrFOg gYfBNp"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                />
+              </svg>
+              <div>
+                View search result
+              </div>
+            </div>
+          </button>
+        </div>
+      </div>
+    </section>
+    <section
+      class="sc-eDvSVe fgDUYp"
+    >
+      <div
+        class="sc-jSUZER eruvAk"
+      >
+        <p>
+          Search results
+        </p>
+        <p
+          class="caption"
+        >
+          Enter a search term to view results
+        </p>
+      </div>
+    </section>
+  </main>
+</div>
+`;

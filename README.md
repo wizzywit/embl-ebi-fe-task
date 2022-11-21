@@ -13,6 +13,7 @@ keep up to date with current research.
 - Go into the project directory using `cd embl-ebi-fe-task`.
 - Install all dependencies using `yarn`.
 - Run the application locally using `yarn start`.
+- Access the application on [https://localhost:3000](https://localhost:3000)
 
 ## Testing application
 - Run all unit test files using `yarn test`.
